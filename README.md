@@ -27,4 +27,3 @@ The project includes data preprocessing, exploratory data analysis (EDA), featur
 
 ---
 
-## 📂 Project Structure
